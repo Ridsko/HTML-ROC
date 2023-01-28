@@ -1,0 +1,18 @@
+1. Cascading Style Sheets
+2. je kan je website stylen naar keuze
+3. html is de content en css is om de content te stylen
+4. intern en extern
+5. intern is <style></style> extern is een externe .css bestand
+6. de externe omdat je dan overzicht hebt van je code
+7. .myImage #myImage myImage * etc.
+8.  {
+    }
+9.  het kan beter in een externe css file
+10. https://ibb.co/KXLCpQR
+11. class word gebruikt om een hele een deel van je website te stylen
+12. id word gebruikt om 1 element te stylen 
+13. bij een id gebruik je # en bij class een.
+14.margin is de whitespace tussen andere borderboxes en padding is de whitespace in de borderbox 
+15. overnemen van van bovenliggende element
+16. een block element pakt alle width en een inline pakt alleen width die zoveel hij nodig heeft
+17. images navigator footer

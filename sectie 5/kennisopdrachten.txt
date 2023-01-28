@@ -1,0 +1,25 @@
+1.watvoor website je wilt en welke kleuren en content je website gaat bevatten
+2.snelheid van de website
+3. dat hij op elke apparaat er goed uit ziet
+4.media queries, grid, flexbox
+5.daar komt je belangerijke content in te staan
+6.je code ziet er meer georganiseerd uit
+7. #000000 , (0,0,0), black
+8.block gebruikt de hele width inline-block gebruikt alleen hoeveel die nodig heeft bijvoobeeld span is een inline element zie inlineopdracht
+9.iets bij de code vermelden wat geen effect heeft
+10./**/
+11. je kan daarmee een element aan de linker of rechterkant zetten om ruimte te creeren voor andere content
+12. een pseudo element kan een normale element stylen bijvorbeeld hover of visited , unvisited, active
+13.svg blijft scherp bij het inzoomen png niet 
+14. margin uit de box
+15. padding in de box
+16. margin uit de box padding in de box
+17 margin top right bottom left
+18. als content buiten de box gaat kun je instellen of deze zichtbaar of onzichtbaar word je hebt hidden scroll auto en visible
+19. % em ex rem etc
+20. px cm mm in etc
+21. relative omdat deze meer reponsief is
+22. <form></form>
+23. eerst alle content die je wilt hebben in de html zetten, en dan kun je aan de slag met styling omdat als je voor een deel van je content de styling alvast hebt gedaan en je voegt meer unstyled content toe kun je je verwarren
+24. geen maar het geeft duidelijkheid aan de code en de footer bevat meestal minder belangerijke informatie 
+25. <footer></footer>

@@ -1,0 +1,8 @@
+1. hoe de website eruit gaat zien
+2. bij web design word er eerst gekeken hoe de website eruit gaat zien en bij web development word hij gemaakt
+3. weghalen van shadows of van andere effecten die voor een 3d effect kunnen zorgen, de oude ios versie heeft dit 
+4. de font 
+5. ligt aan de onderwerp design van je website
+6. deze blijven scherp als je inzoomt en verbetert de kwaliteit van je website
+7. witte ruimte
+8. plan je reis omdat deze erg geel is en goed uitblinkt en dit de belangerijke deel is van de website

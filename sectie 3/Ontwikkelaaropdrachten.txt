@@ -1,0 +1,5 @@
+1. 15, 58, 128
+2. Rood groen blauw alpha daarmee kan je de opacity veranderen dus de zichtbaarheid
+3. display: inline-block;
+4. flexbox, deze is meer responsive en mobilefriendly
+5. zie mapje

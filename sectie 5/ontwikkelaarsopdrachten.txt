@@ -1,0 +1,3 @@
+1. Content 1 = a  content 2 = b
+6. je kan daarmee een custom font importeren van het internet : @import url("navigation.css");
+7. met live server je hoeft niet steeds op te slaan en je pagina te refreshen dat gebeurd automatisch

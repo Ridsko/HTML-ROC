@@ -1,0 +1,8 @@
+1. media queries helpen je een pagina anders weer te geven wanneer de resolutie kleiner of groter is.
+2. @media (min-width:320px)
+3. verandert background kleur voor safari browsers
+4. verandert de font size voor firefox browser
+5. goede resultaat, aanpassen ,  betere ontwikkeling
+
+
+2,3,4 zie style.css 

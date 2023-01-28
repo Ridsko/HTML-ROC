@@ -1,0 +1,134 @@
+*{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    color: rgb(0, 0, 0);
+}
+
+.container{
+    float: left;
+    
+    box-sizing: border-box;
+    width: 70%;
+    font-size: 0;
+    
+
+}
+
+.one {
+    
+    border: 2px solid green;
+    background-color: green;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 75px;
+    padding-left: 150px;
+    padding-bottom: 75px;
+    padding-right: 150px;
+    float: left;
+}
+
+.two {
+    
+    border: 2px solid pink;
+    background-color: pink;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-top: 75px;
+    padding-left: 150px;
+    padding-bottom: 75px;
+    padding-right: 150px;
+    float: left;
+}
+
+.three {
+    
+    border: 2px solid aqua;
+    background-color: aqua;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-top: 75px;
+    padding-left: 150px;
+    padding-bottom: 75px;
+    padding-right: 150px;
+    float: left;
+}
+
+.four {
+    
+    border: 2px solid yellowgreen;
+    background-color: yellowgreen;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-top: 75px;
+    padding-left: 150px;
+    padding-bottom: 75px;
+    padding-right: 150px;
+    float: left;
+}
+
+.five {
+    
+    border: 2px solid yellow;
+    background-color: yellow;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-top: 75px;
+    padding-left: 150px;
+    padding-bottom: 75px;
+    padding-right: 150px;
+    float: left;
+}
+
+.six {
+    
+    border: 2px solid red;
+    background-color: red;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-top: 75px;
+    padding-left: 150px;
+    padding-bottom: 75px;
+    padding-right: 150px;
+    float: left;
+}
+
+.seven {
+    
+    border: 2px solid purple;
+    background-color: purple;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-top: 75px;
+    padding-left: 150px;
+    padding-bottom: 75px;
+    padding-right: 150px;
+    float: left;
+}
+
+.eight {
+    
+    border: 2px solid blue;
+    background-color: blue;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-top: 75px;
+    padding-left: 150px;
+    padding-bottom: 75px;
+    padding-right: 150px;
+    float: left;
+}
+
+.nine {
+    
+    border: 2px solid orange;
+    background-color: orange;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-top: 75px;
+    padding-left: 150px;
+    padding-bottom: 75px;
+    padding-right: 150px;
+    float: left;
+}
+

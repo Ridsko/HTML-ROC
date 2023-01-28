@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link rel="stylesheet"  href="style.css">
+</head>
+<body>
+    <div class="m">
+        <div class="flexbox">FLEXBOX</div>
+        <div class="c">
+             <div class="container flex-container-left" >
+                 <div class="flex1"><p class="middle">Container Properties</p></div>
+                 <div class="flex2"><p class="purple">//Creates a flexbox</p><p>display: flex;</p></div>
+                 <div class="flex3"><p class="purple">//Direction, establishes main-axis</p><p>row || row-reverse \\ column || column-reverse</p></div>
+                 <div class="flex4"><p class="purple">//To wrap or not to warp</p><p>flex-wrap: no-wrap || wrap || wrap-reverse</p></div>
+                 <div class="flex5"><p class="purple">//shorthanded (direction-wrap)</p><p>flex-flow: flex direction flex-wrap</p></div>
+                 <div class="flex6"><p class="purple">//alignment main axis</p><p>justify content: flex-start || flex-end || center || s[ace-between || space-around || space-evenly</p></div>
+                 <div class="flex7"><p class="purple">//alignement cross axis</p><p>align-items: stretch || flex-start || flex-end || center || baseline</p></div>
+                 <div class="flex8"><p class="purple">//alignement lines within the container</p><p>align-content: normal || flex-start || flex-end || center || space-between || space-around || space-evenly || stretch</p></div>
+                 <div class="flex9"></div>
+             </div>
+             <div class="container flex-container-right" >
+                <div class="flex1"><p class="middle">Item Properties</p></div>
+                <div class="flex2"><p class="purple">//order of the (flex) html-elements</p><p>order: integer (default: 0)</p></div>
+                <div class="flex3"><p class="purple">//ability to grow if necessary</p><p>flex-grow: integer (default: 0)</p></div>
+                <div class="flex4"><p class="purple">//ability to shrink if necesary</p><p>flex-shrink: positive interger (default: 1)</p></div>
+                <div class="flex5"><p class="purple">//defines default soze of the item</p><p>flex-basis: length || keyword (default: auto)</p></div>
+                <div class="flex6"><p class="purple">//shorthanded (grow shrinkes basis)</p><p>f;ex: flex-grow flex-shrink flex-basis (default 0 1 auto)</p></div>
+                <div class="flex7"><p class="purple">//override default alignment form align-items</p><p>align-self: auto || flex-start || flex-end || center || baseline || stretch</p></div>
+                <div class="flex8"></div>
+                <div class="flex9"></div>
+             </div>
+        </div>
+        </div>
+
+<style>
+
+
+
+.m{
+    width: auto;
+    height: 700px;
+    background-color: bisque;
+    justify-content: stretch;
+    display: flex;
+    font-size: 70px;
+    flex-direction: column  ;
+   align-content: center;
+}
+
+.flexbox{
+    align-content: center;
+    justify-content: center;
+    align-self: center;
+    padding: 10px
+
+}
+
+.c{
+    border: black 2px solid;
+    display: flex;
+    border-style: dashed;
+    width: auto;
+    height: 100%;
+    display: flex;
+    background-color: plum;
+    border-width: 5px;
+    margin: 10px;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+
+}
+
+.c > div{
+    border: black 2px solid;
+    width: 48%;
+    margin:7px;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+
+.container > div{
+    width: 97%;
+    border: blue 2px solid;
+    border-style: dotted;
+    height: 9%;
+    margin: 5px;
+    flex-direction: column;
+}
+
+p{
+    font-size: 10px;
+    justify-content: center;
+    align-content: center;
+    display: flex;
+    
+}
+
+p.purple{
+    background-color: magenta;
+}
+
+
+</style>
+
+    
+</body>
+
+</html>
