@@ -1,0 +1,9 @@
+1. https://miro.medium.com/max/860/1*FifZUGz97Onmb7RUOairbg.png   flexbox is 1 dimensionaal en gridbox is 2 dimensionaal
+2. in je head staat je title en meta en body je pagecontent
+3. .herder{
+    background-color:red;
+    margin:10px;
+    width:50%;
+}
+4. width 300px height 150px color is white
+5. dat is iets wat in een element staat bijv class, id, placeholder, href etc
